@@ -7,3 +7,5 @@ Hi, I'm Yeikzy, french self taught student for programing languages such as Java
 - Discord: Yeikzy#0001
 
 - E-Mail: yeikzypro@gmail.com
+
+Thanks for read my profile ❤️
