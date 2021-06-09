@@ -14,7 +14,7 @@ Hi, I'm Yeikzy, I am a young developer of Python, Golang and JavaScript, you can
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeikzy&layout=compact)](https://github.com/yeikzy/github-readme-stats)
 
 ## How to contact me
-- Discord: Yeikzy#0001](https://discord.gg/W7cY7FH)
+- Discord: [Yeikzy#0001](https://discord.gg/W7cY7FH)
 
 - E-Mail: yeikzypro@gmail.com
 
