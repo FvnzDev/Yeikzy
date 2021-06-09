@@ -3,7 +3,7 @@ Hi, I'm Yeikzy, I am a young developer of Python, Golang and JavaScript, you can
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Yeikzy)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🌍 Programming languages:
+## Programming languages:
 <p>
   <img alt="js" src="https://img.shields.io/badge/-Javascript-FFEE00?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="nodejs" src="https://img.shields.io/badge/-NodeJS-43853D?style=flat-square&logo=Node.js&logoColor=white" />
