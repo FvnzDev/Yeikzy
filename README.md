@@ -17,6 +17,6 @@ Hi, I'm Yeikzy, I am a young developer of Python, Golang and JavaScript, you can
 ## How to contact me
 - Discord: [Yeikzy#0001](https://discord.gg/W7cY7FH)
 
-- E-Mail: yeikzypro@gmail.com
+- E-Mail: contact@yeikzy.fr
 
 Thanks for read my profile ❤️
