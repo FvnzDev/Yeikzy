@@ -1,7 +1,7 @@
 # Yeikzy
 Hi, I'm Yeikzy, I am a young developer of Python, Golang and JavaScript, you can find me on discord, I am not a good graphic designer but I manage in Dev '^^.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeikzy&show_icons=true&theme=tokyonight)
 
 
 ## Programming languages:
