@@ -1,5 +1,5 @@
 # Yeikzy
-Hi, I'm Yeikzy, I'm a young Python, Golang and JavaScript developer, I'm not a good graphics designer but I'm pretty skilled at programming :). You can find me on discord my tag will be in the **How to contact's section**.
+Hi, I'm Yeikzy, I'm a young Python, Golang and JavaScript developer, I'm not a good graphics designer but I'm pretty skilled at programming :) You can find me on discord my tag will be in the **How to contact's section**.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeikzy&show_icons=true&theme=tokyonight)
 
