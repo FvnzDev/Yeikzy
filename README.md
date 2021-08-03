@@ -19,5 +19,3 @@ Hi, I'm Yeikzy, I'm a young Python, Golang and JavaScript developer, I'm not a g
 - Discord: [Yeikzy#1000](https://discord.gg/W7cY7FH)
 
 - E-Mail: contact@yeikzy.fr
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/543868623836676145?bg=0d1117)](https://discord.com/users/543868623836676145)
