@@ -16,7 +16,7 @@ Hi, I'm Yeikzy, I'm a young Python, Golang and JavaScript developer, I'm not a g
 
 ## Spotify Playlist Coding
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=me4fd6aa939enmsg7yl2nd2vk&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=me4fd6aa939enmsg7yl2nd2vk&cover_image=true&theme=novatorem)](https://open.spotify.com/playlist/2877aIy2RqJ3QkuQoBCtNv?si=f2f4a275fb634bd4)
 ## How to contact me
 - Discord: [Yeikzy#1000](https://discord.gg/W7cY7FH)
 
