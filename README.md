@@ -20,4 +20,6 @@ Hi, I'm Yeikzy, I'm a young Python, Golang and JavaScript developer, I'm not a g
 ## How to contact me
 - Discord: [Yeikzy#1000](https://discord.gg/W7cY7FH)
 
+- Guilded: [Yeikzy](https://www.guilded.gg/Yeikzy)
+
 - E-Mail: contact@yeikzy.fr
