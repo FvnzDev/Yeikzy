@@ -24,7 +24,9 @@ Hi, I'm Yeikzy, I'm a young Python, Golang and JavaScript developer, I'm not a g
 
   <p>
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    <img src="https://img.shields.io/badge/PhpStorm-d43cc5?style=for-the-badge&logo=PhpStorm&logoColor=black" />
  </p>
+
 
 ## Spotify Playlist Coding
 
