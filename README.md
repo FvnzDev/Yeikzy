@@ -28,9 +28,7 @@ Hi, I'm Yeikzy, I'm a young Python, Golang and JavaScript developer, I'm not a g
 
 ## Extra
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=me4fd6aa939enmsg7yl2nd2vk&cover_image=true&theme=novatorem)](https://open.spotify.com/playlist/2877aIy2RqJ3QkuQoBCtNv?si=f2f4a275fb634bd4)
-
-<p>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=me4fd6aa939enmsg7yl2nd2vk&cover_image=true&theme=novatorem)](https://open.spotify.com/playlist/2877aIy2RqJ3QkuQoBCtNv?si=f2f4a275fb634bd4) <p>
 <img src="https://discord.c99.nl/widget/theme-1/543868623836676145.png" />
 </p>
 
