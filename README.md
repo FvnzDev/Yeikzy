@@ -26,13 +26,9 @@ Hi, I'm Yeikzy, I'm a young Python, Golang and JavaScript developer, I'm not a g
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
  </p>
 
-## Extra
+## Spotify Playlist Coding
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=me4fd6aa939enmsg7yl2nd2vk&cover_image=true&theme=novatorem)](https://open.spotify.com/playlist/2877aIy2RqJ3QkuQoBCtNv?si=f2f4a275fb634bd4) 
-
-<p>
-<img src="https://discord.c99.nl/widget/theme-1/543868623836676145.png" />
-</p>
 
 ## How to contact me
 - Discord: [Yeikzy#1000](https://discord.gg/W7cY7FH)
@@ -40,3 +36,7 @@ Hi, I'm Yeikzy, I'm a young Python, Golang and JavaScript developer, I'm not a g
 - Guilded: [Yeikzy](https://www.guilded.gg/Yeikzy)
 
 - E-Mail: contact@yeikzy.fr
+
+<p>
+<img src="https://discord.c99.nl/widget/theme-1/543868623836676145.png" />
+</p>
