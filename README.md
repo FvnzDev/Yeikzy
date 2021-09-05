@@ -38,5 +38,5 @@ Hi, I'm Yeikzy, I'm a young Python, Golang and JavaScript developer, I'm not a g
 - E-Mail: contact@yeikzy.fr
 
 <p>
-<img src="https://discord.c99.nl/widget/theme-1/543868623836676145.png" />
+<img src="https://discord.c99.nl/widget/theme-4/543868623836676145.png" />
 </p>
