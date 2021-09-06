@@ -1,8 +1,4 @@
-<h3 align="center">Yeikzy</h3>
-
-<p align="center">
-  <a href="https://discord.gg/BrtyWcvJtz"><img src="https://img.shields.io/discord/695660855186030643.svg?color=7289DA&logo=discord&logoColor=fff"/><br></a>
-</p>
+# Yeikzy
 
 Hi, I'm Yeikzy, I'm a young Python, Golang and JavaScript developer, I'm not a good graphics designer but I'm pretty skilled at programming :) You can find me on discord my tag will be in the **How to contact's section**.
 
@@ -44,5 +40,7 @@ Hi, I'm Yeikzy, I'm a young Python, Golang and JavaScript developer, I'm not a g
 - Guilded: [Yeikzy](https://www.guilded.gg/Yeikzy)
 
 - E-Mail: yeikzypro@gmail.com
+
+
 
 ![](https://komarev.com/ghpvc/?username=yeikzy)
