@@ -3,7 +3,7 @@
 Hi, I'm Yeikzy, I'm a young Python, Golang and JavaScript developer, I'm not a good graphics designer but I'm pretty skilled at programming :) You can find me on discord my tag will be in the **How to contact's section**.
 
 <div align="center">
-   <a href="https://github.com/Yeikzy/discord-profile" target="_blank"><img src="https://i.imgur.com/cAYIfRb.png" align="center" /></a>
+   <a href="https://discord.gg/W7cY7FH" target="_blank"><img src="https://i.imgur.com/cAYIfRb.png" align="center" /></a>
 </div>
 
 ## Stats:
