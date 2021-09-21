@@ -6,6 +6,9 @@ Hi, I'm Yeikzy, I'm a young Python, Golang and JavaScript developer, I'm not a g
    <a href="https://discord.gg/W7cY7FH" target="_blank"><img src="https://i.imgur.com/cAYIfRb.png" align="center" /></a>
 </div>
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/543868623836676145
+                            )](https://discord.com/users/543868623836676145)
+
 ## Stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeikzy&show_icons=true&theme=tokyonight)
