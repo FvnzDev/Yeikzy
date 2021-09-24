@@ -28,7 +28,7 @@
   | Name             | Link                              | Description                                                            |
   |------------------|-----------------------------------|------------------------------------------------------------------------|
   | YeikzyBot        | https://discord.gg/QW4fSZJW4N     | A moderation discord bot.                                              |
-  | AtomBot          | github.com/Yeikzy/EasyDiscordBot  | For new Developer.                                                     |
+  | EasyBot          | https://github.com/Yeikzy/EasyDiscordBot  | For new Developer.                                                     |
   | XXX              | XXX                               | XXX                                                                    |
   | XXX              | XXX                               | XXX                                                                    |          
 
