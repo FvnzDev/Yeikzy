@@ -30,7 +30,7 @@
   | YeikzyBot        | https://discord.gg/QW4fSZJW4N     | A moderation discord bot.                                              |
   | EasyBot          | https://github.com/Yeikzy/EasyDiscordBot  | For new Developer.                                                     |
   | osu! France      | https://discord.gg/Kkq3rRu8Cu     | A project on the game osu! to bring together a french community                                                                    |
-  | XXX              | XXX                               | XXX                                                                    |          
+  | Soon..              | Soon..                               | Soon..                                                                    |          
 
 <p align="center"> 
   Visitor count<br>
