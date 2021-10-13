@@ -54,6 +54,10 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
  ![Android](https://img.shields.io/badge/Android-a4c739?style=for-the-badge&logo=android&logoColor=white)
 
+# 🎶 Spotify Playlist Coding
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=me4fd6aa939enmsg7yl2nd2vk&cover_image=true&theme=novatorem)](https://open.spotify.com/playlist/2877aIy2RqJ3QkuQoBCtNv?si=f2f4a275fb634bd4) 
+
 ## 🚩 Projects:
   | Name             | Link                              | Description                                                            |
   |------------------|-----------------------------------|------------------------------------------------------------------------|
@@ -61,14 +65,5 @@
   | EasyBot          | https://github.com/Yeikzy/EasyDiscordBot  | For new Developer.                                                     |
   | osu! France      | https://discord.gg/Kkq3rRu8Cu     | A project on the game osu! to bring together a french community                                                                    |
   | Soon..              | Soon..                               | Soon..                                                                    |          
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Yeikzy/count.svg" />
-</p>
-
-# 🎶 Spotify Playlist Coding
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=me4fd6aa939enmsg7yl2nd2vk&cover_image=true&theme=novatorem)](https://open.spotify.com/playlist/2877aIy2RqJ3QkuQoBCtNv?si=f2f4a275fb634bd4) 
 
 </details>
