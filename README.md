@@ -7,6 +7,7 @@
 
 - 🔭 I’m currently working on [TeamYeikzy](https://discord.gg/NMR4zVqYf4)
 - 📫 How to reach me: [Discord](https://discord.gg/uAparwARav) / [Mail](yeikzypro@gmail.com)
+- ✍️ For more information about me go to the category Other !
 
 <p align="center">
   <tr>
