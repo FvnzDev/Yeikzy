@@ -8,6 +8,9 @@
 - 🔭 I’m currently working on [TeamYeikzy](https://discord.gg/NMR4zVqYf4)
 - 📫 How to reach me: [Discord](https://discord.gg/uAparwARav) / [Mail](yeikzypro@gmail.com)
 
+
+
+
 <p align="center">
   <a href="https://discord.gg/H9DNNd8rc7">
     <img src="https://discord.c99.nl/widget/theme-4/543868623836676145.png" alt="yeikzy"/>
@@ -35,6 +38,11 @@
     </td>
   </tr>
 </p>
+
+<p align="center"> 
+    <a href="https://github.com/notJari">
+  <img src="https://komarev.com/ghpvc/?username=yeikzy&style=flat-square&color=grey" alt="yeikzy" /> </p>
+<br>
 
 </details>
 
