@@ -9,6 +9,12 @@
 - 📫 How to reach me: [Discord](https://discord.gg/uAparwARav) / [Mail](yeikzypro@gmail.com)
 
 <p align="center">
+  <a href="https://discord.gg/H9DNNd8rc7">
+    <img src="https://discord.c99.nl/widget/theme-5/543868623836676145.png" alt="yeikzy"/>
+     </a>
+</p>
+
+<p align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <a href="https://github.com/yeikzy">
