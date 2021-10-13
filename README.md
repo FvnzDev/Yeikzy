@@ -36,10 +36,7 @@
   <img src="https://komarev.com/ghpvc/?username=yeikzy&style=flat-square&color=grey" alt="yeikzy" /> </p>
 <br>
 
-</details>
-
 <details>
-  <summary> Other </summary>
 
 ## 🌍 Programming languages:
 
