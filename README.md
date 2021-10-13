@@ -30,6 +30,11 @@
   </tr>
 </p>
 
+</details>
+
+<details>
+  <summary> Other </summary>
+
 ## 🌍 Programming languages:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -58,17 +63,6 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Yeikzy/count.svg" />
 </p>
-
-</details>
-
-<details>
-  <summary> Other </summary>
-
-# 📊 Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeikzy&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeikzy&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/yeikzy/github-readme-stats)
 
 # 🎶 Spotify Playlist Coding
 
