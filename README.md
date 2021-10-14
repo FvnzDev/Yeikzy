@@ -50,6 +50,7 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-21d789?style=for-the-badge&logo=pycharm&logoColor=white)
 
 ## 🔧 OS :
+---
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/kali%20linux-527D97.svg?style=for-the-badge&logo=linux&logoColor=white)
