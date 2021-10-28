@@ -1,6 +1,6 @@
 # 👋 Hi, allow me to introduce myself
 <div align="center">
-   <a href="https://discord.gg/W7cY7FH" target="_blank"><img src="https://github.com/Yeikzy/Yeikzy/blob/main/yeikzy-readme.jpg" align="center" /></a>
+   <a href="https://discord.gg/ErwAkKhMsR" target="_blank"><img src="https://github.com/Yeikzy/Yeikzy/blob/main/yeikzy-readme.jpg" align="center" /></a>
 </div>
 
 ### I'm Yeikzy, I'm a young Python, Golang and JavaScript developer, I'm not a good graphics designer but I'm pretty skilled at programming :)
