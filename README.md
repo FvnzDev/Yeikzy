@@ -5,7 +5,7 @@
 
 ### I'm Yeikzy, I'm a young Python, Golang and JavaScript developer, I'm not a good graphics designer but I'm pretty skilled at programming :)
 
-- 🔭 I’m currently working on [TeamYeikzy](https://discord.gg/NMR4zVqYf4)
+- 🔭 I’m currently working on [TeamYeikzy](https://discord.gg/EVHpMBHyaF)
 - 📫 How to reach me: [Discord](https://discord.gg/uAparwARav) / [Mail](yeikzypro@gmail.com)
 - ✍️ For more information about me redirect you to the details category.
 
