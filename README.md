@@ -52,7 +52,7 @@
 ## 🔧 OS :
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/kali%20linux-527D97.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-a4c739?style=for-the-badge&logo=android&logoColor=white)
 
 # 🎶 Spotify Playlist Coding
