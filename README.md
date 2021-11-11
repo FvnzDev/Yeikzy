@@ -62,7 +62,7 @@
 ## 🚩 Projects:
   | Name             | Link                              | Description                                                            |
   |------------------|-----------------------------------|------------------------------------------------------------------------|
-  | YeikzyBot        | https://discord.gg/QW4fSZJW4N     | A moderation discord bot.                                              |
+  | YeikzyBot        | https://discord.gg/EVHpMBHyaF     | A moderation discord bot.                                              |
   | EasyBot          | https://github.com/Yeikzy/EasyDiscordBot  | For new Developer.                                                     |
   | osu! France      | https://discord.gg/Kkq3rRu8Cu     | A project on the game osu! to bring together a french community                                                                    |
   | Soon..              | Soon..                               | Soon..                                                                    |          
