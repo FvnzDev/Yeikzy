@@ -3,9 +3,6 @@
    <a href="https://discord.gg/ErwAkKhMsR" target="_blank"><img src="https://github.com/Yeikzy/Yeikzy/blob/main/yeikzy-readme.jpg" align="center" /></a>
 </div>
 
-  
-My name is **Yeikzy**, I'm a backend developer, passionate by technology.
-
 - 🔭 I’m currently working on [Unosial](https://unosial.com/)
 - 📫 How to reach me: [Discord](https://discord.gg/uAparwARav) / [Mail](yeikzy@unosial.com)
 - ✍️ For more information about me redirect you to the details category.
