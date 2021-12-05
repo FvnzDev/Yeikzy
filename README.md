@@ -3,7 +3,7 @@
    <a href="https://discord.gg/ErwAkKhMsR" target="_blank"><img src="https://github.com/Yeikzy/Yeikzy/blob/main/yeikzy-readme.jpg" align="center" /></a>
 </div>
 
-### I'm Yeikzy, I'm a young Python, Golang and JavaScript developer, I'm not a good graphics designer but I'm pretty skilled at programming :)
+My name is **Yeikzy**, I'm a backend developer, passionate by technology.
 
 - 🔭 I’m currently working on [Unosial](https://unosial.com/)
 - 📫 How to reach me: [Discord](https://discord.gg/uAparwARav) / [Mail](yeikzy@unosial.com)
