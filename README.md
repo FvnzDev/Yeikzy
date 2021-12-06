@@ -46,8 +46,8 @@
 ## ⚙️ Programming Tools:
 
 ![VsCode](https://img.shields.io/badge/Visual%20Studio%20Code-238cd3?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-00cdd7?style=for-the-badge&logo=webstorm&logoColor=white)
-![IntellijIdea](https://img.shields.io/badge/Intellij%20Idea-990066?style=for-the-badge&logo=intellijidea&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-1B90D7?style=for-the-badge&logo=webstorm&logoColor=white)
+![IntellijIdea](https://img.shields.io/badge/Intellij%20Idea-FD315C?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ## 🔧 OS :
 
