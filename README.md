@@ -67,6 +67,4 @@
   | osu! France      | https://discord.gg/Kkq3rRu8Cu     | A project on the game osu! to bring together a french community                                                                    |
   | Soon..              | Soon..                               | Soon..                                                                    |          
 
-<iframe src="https://discord.com/widget?id=903412602921705544&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
 </details>
