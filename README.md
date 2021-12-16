@@ -72,5 +72,5 @@
 
 <p align="center">
  <a href="https://github.com/Yeikzy">
-<img src="(https://discordapp.com/api/guilds/903412602921705544/widget.png)](https://discord.gg/ErwAkKhMsR) [![github-views](https://komarev.com/ghpvc/?username=yeikzy&color=brightgreen)(https://github.com/Yeikzy)" /> </p>
+<img src="https://discordapp.com/api/guilds/903412602921705544/widget.png)](https://discord.gg/ErwAkKhMsR) [![github-views](https://komarev.com/ghpvc/?username=yeikzy&color=brightgreen" /> </p>
 <br>
