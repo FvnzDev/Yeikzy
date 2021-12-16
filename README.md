@@ -21,6 +21,14 @@
 - 📫 How to reach me: [Discord](https://discord.gg/uAparwARav) / [Mail](yeikzy@unosial.com)
 - ✍️ For more information about me redirect you to the details category.
 
+## 🛠 Skills & Tools
+![VsCode](https://img.shields.io/badge/Visual%20Studio%20Code-238cd3?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-1B90D7?style=for-the-badge&logo=webstorm&logoColor=white)
+![IntellijIdea](https://img.shields.io/badge/Intellij%20Idea-FD315C?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 <p align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
