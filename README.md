@@ -65,15 +65,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Yeikzy&no-bg=true" alt="yeikzy" /> </p>
 <br>
 
-<p align="center"> 
-    <a href="https://github.com/Yeikzy">
-  <img src="https://komarev.com/ghpvc/?username=yeikzy&style=flat-square&color=blue" alt="yeikzy" /> </p>
-<br>
-
-<tr>
-<p align="center">
- <a href="https://discord.gg/ErwAkKhMsR">
-<img src="https://discordapp.com/api/guilds/903412602921705544/widget.png") />
-</td>
-  </tr>
-<br>
+[![discord](https://discordapp.com/api/guilds/903412602921705544/widget.png)](https://discord.gg/kmpnWBzDCa) [![github-views](https://komarev.com/ghpvc/?username=yeikzy&color=blue)](https://github.com/Yeikzy)
