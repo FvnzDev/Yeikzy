@@ -15,6 +15,9 @@
 <p><a href="https://ko-fi.com/L4L76RYLT"> <img align="left" src="https://i.imgur.com/85I54N3.png" height="45" width="205" alt="yeikzy" /></a></p><br><br><br>
 <p align="center">      
 </div>
+<p><a href="https://github.com/Yeikzy"> <img align="left" src="https://i.imgur.com/NYNxNdE.png" height="45" width="205" alt="yeikzy" /></a></p><br><br><br>
+<p align="center">      
+</div>
 
 ## 💻 - Language and Tools
 
