@@ -40,10 +40,6 @@
 
 - Contact me by e-mail with yeikzy@unosial.com.
 
-## 💎 Support me:
-<p><a href="https://ko-fi.com/L4L76RYLT"> <img align="left" src="https://i.imgur.com/85I54N3.png" height="45" width="205" alt="yeikzy" /></a></p><br><br><br>
-<p align="center">
-
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <a href="https://github.com/yeikzy">
