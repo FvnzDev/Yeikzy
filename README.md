@@ -30,9 +30,9 @@
 
 ## 🛰️ - Find me
 
-- Twitter - ![@Yeikzy](https://twitter.com/yeikzy)
-- Instagram - ![@Yeikzy](https://www.instagram.com/yeikzy/?igshid=lriiibb7gob6)
-- Discord - ![Yeikzy#0001](https://discord.gg/ErwAkKhMsR)
+- Twitter - [@Yeikzy](https://twitter.com/yeikzy)
+- Instagram - [@Yeikzy](https://www.instagram.com/yeikzy/?igshid=lriiibb7gob6)
+- Discord - [Yeikzy#0001](https://discord.gg/ErwAkKhMsR)
 
 ## 📡 - Contact me
 
