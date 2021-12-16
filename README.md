@@ -18,7 +18,7 @@
 ## 💻 - Language and Tools
 
 - **JavaScript / NodeJS** | discord.js
-- **Python / In Progress..**
+- **Python /** In Progress..
 - **Visual Studio Code**
 - **WebStorm**
 - **IntellijIdea**
