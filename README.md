@@ -1,6 +1,16 @@
 # 👋 Hi, allow me to introduce myself
 <div align="center">
-   <a href="https://discord.gg/ErwAkKhMsR" target="_blank"><img src="https://github.com/Yeikzy/Yeikzy/blob/main/yeikzy-readme.jpg" align="center" /></a>
+     
+ __    __          __                          
+/\ \  /\ \      __/\ \                         
+\ `\`\\/'/  __ /\_\ \ \/'\   ____    __  __    
+ `\ `\ /' /'__`\/\ \ \ , <  /\_ ,`\ /\ \/\ \   
+   `\ \ \/\  __/\ \ \ \ \\`\\/_/  /_\ \ \_\ \  
+     \ \_\ \____\\ \_\ \_\ \_\/\____\\/`____ \ 
+      \/_/\/____/ \/_/\/_/\/_/\/____/ `/___/> \
+                                         /\___/
+                                         \/__/                                                       
+      
 </div>
 
 ###
