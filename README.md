@@ -67,4 +67,7 @@
   | osu! France      | https://discord.gg/Kkq3rRu8Cu     | A project on the game osu! to bring together a french community                                                                    |
   | Soon..              | Soon..                               | Soon..                                                                    |          
 
+## 💎 Support me:
+<p><a href="https://www.buymeacoffee.com/yeikzy"> <img align="left" src="https://i.imgur.com/85I54N3.png" height="45" width="205" alt="yeikzy" /></a></p><br><br><br>
+
 </details>
