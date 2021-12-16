@@ -48,6 +48,10 @@
   <img src="https://komarev.com/ghpvc/?username=yeikzy&style=flat-square&color=grey" alt="yeikzy" /> </p>
 <br>
 
+## 🏆 Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=Yeikzy&no-bg=true)
+![](https://hit.yhype.me/github/profile?user_id=76485792)
+
 <details>
 
 ## 🌍 Programming languages:
