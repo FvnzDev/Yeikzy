@@ -13,14 +13,9 @@
                                          \/__/
 ```                                             
 <div align="center"> 
-
-[![Ko-Fi](https://i.imgur.com/85I54N3.png)]("https://ko-fi.com/L4L76RYLT) [![Sponsor](https://i.imgur.com/NYNxNdE.png)](https://github.com/Yeikzy)
-
-<p><a href="https://ko-fi.com/L4L76RYLT"> <img align="left" src="https://i.imgur.com/85I54N3.png" height="45" width="205" alt="yeikzy" /></a></p><br><br><br>
-<p align="center">      
+<p><a href="https://ko-fi.com/L4L76RYLT"> <img align="left" src="https://i.imgur.com/85I54N3.png" height="45" width="205" alt="yeikzy" /></a></p><br><br><br>      
 </div>
-<p><a href="https://github.com/Yeikzy"> <img align="center" src="https://i.imgur.com/NYNxNdE.png" height="45" width="205" alt="yeikzy" /></a></p><br><br><br>
-<p align="center">      
+<p><a href="https://github.com/Yeikzy"> <img align="center" src="https://i.imgur.com/NYNxNdE.png" height="45" width="205" alt="yeikzy" /></a></p><br><br><br>      
 </div>
 
 ## 💻 - Language and Tools
