@@ -38,6 +38,7 @@
 
 - Contact me by e-mail with yeikzy@unosial.com.
 
+
 <p align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
@@ -59,6 +60,11 @@
     </td>
   </tr>
 </p>
+
+<p align="center"> 
+    <a href="https://github.com/Yeikzy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yeikzy&no-bg=true" alt="yeikzy" /> </p>
+<br>
 
 <p align="center"> 
     <a href="https://github.com/Yeikzy">
