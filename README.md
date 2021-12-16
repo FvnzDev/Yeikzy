@@ -15,12 +15,6 @@
       
 </div>
 
-###
-
-- 🔭 I’m currently working on [Unosial](https://unosial.com/)
-- 📫 How to reach me: [Discord](https://discord.gg/uAparwARav) / [Mail](yeikzy@unosial.com)
-- ✍️ For more information about me redirect you to the details category.
-
 ## 💻 - Language and Tools
 
 - **JavaScript / NodeJS** | discord.js
@@ -29,12 +23,20 @@
 - **WebStorm**
 - **IntellijIdea**
 
-![VsCode](https://img.shields.io/badge/Visual%20Studio%20Code-238cd3?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-1B90D7?style=for-the-badge&logo=webstorm&logoColor=white)
-![IntellijIdea](https://img.shields.io/badge/Intellij%20Idea-FD315C?style=for-the-badge&logo=intellijidea&logoColor=white)
+## 🚀 - Technologies
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- **Linux** | Debian
+- **Windows**
+
+## 🛰️ - Find me
+
+- Twitter - ![@Yeikzy](https://twitter.com/yeikzy)
+- Instagram - ![@Yeikzy](https://www.instagram.com/yeikzy/?igshid=lriiibb7gob6)
+- Discord - ![Yeikzy#0001](https://discord.gg/ErwAkKhMsR)
+
+## 📡 - Contact me
+
+- Contact me by e-mail with yeikzy@unosial.com.
 
 <p align="center">
   <tr>
