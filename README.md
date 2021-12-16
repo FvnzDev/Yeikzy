@@ -13,6 +13,7 @@
                                          \/__/
 ```                                             
 <p><a href="https://ko-fi.com/yeikzy"> <img align="left" src="https://i.imgur.com/85I54N3.png" height="45" width="205" alt="yeikzy" /></a></p><br><br><br>
+</div>
 
 ## 💻 - Language and Tools
 
