@@ -36,7 +36,7 @@
 
 ## 📡 - Contact me
 
-- Contact me by e-mail with yeikzy@unosial.com.
+- Contact me by e-mail with yeikzy@unosial.com or yeikzypro@gmail.com.
 
   <tr>
     <td align="center" style="padding=0;width=50%;">
