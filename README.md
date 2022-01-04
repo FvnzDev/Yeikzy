@@ -12,8 +12,9 @@
                                          /\___/
                                          \/__/
 ```                                             
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/yeikzy)
 </div>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/yeikzy)
 
 ## 💻 - Language and Tools
 
@@ -67,3 +68,5 @@
 <div align="center"> 
 
 [![github-views](https://komarev.com/ghpvc/?username=yeikzy&color=blue)](https://github.com/Yeikzy) [![discord](https://discordapp.com/api/guilds/903412602921705544/widget.png)](https://discord.gg/kmpnWBzDCa)
+
+© [Yeikzy](https://github.com/Yeikzy)
