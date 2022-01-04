@@ -67,6 +67,3 @@
 <div align="center"> 
 
 [![github-views](https://komarev.com/ghpvc/?username=yeikzy&color=blue)](https://github.com/Yeikzy) [![discord](https://discordapp.com/api/guilds/903412602921705544/widget.png)](https://discord.gg/kmpnWBzDCa)
-
-
-[![guilded](<iframe src="https://www.guilded.gg/canvas_index.html?route=%2Fcanvas%2Fembed%2Fbadge%2FQR40ne7R" width="143" height="32" frameborder="0" scrolling="no"></iframe>)](https://guilded.gg/yeikzy)
