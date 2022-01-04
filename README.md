@@ -12,8 +12,8 @@
                                          /\___/
                                          \/__/
 ```                                             
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/yeikzy)
 </div>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/yeikzy)
 
 ## 💻 - Language and Tools
 
