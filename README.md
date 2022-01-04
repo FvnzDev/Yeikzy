@@ -12,7 +12,7 @@
                                          /\___/
                                          \/__/
 ```                                             
-<p><a href="https://ko-fi.com/yeikzy"> <img align="left" src="https://i.imgur.com/85I54N3.png" height="45" width="205" alt="yeikzy" /></a></p><br><br><br>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/yeikzy)
 </div>
 
 ## 💻 - Language and Tools
