@@ -20,9 +20,7 @@
 
 - **JavaScript / NodeJS** | discord.js
 - **Python**
-- **Visual Studio Code**
-- **WebStorm**
-- **IntellijIdea**
+- **Visual Studio Code - Insiders**
 
 ## 🚀 - Technologies
 
