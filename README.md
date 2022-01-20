@@ -20,6 +20,7 @@
 
 - **JavaScript / NodeJS** | discord.js
 - **Python**
+- **Arduino**
 - **Visual Studio Code - Insiders**
 
 ## 🚀 - Technologies
