@@ -20,7 +20,6 @@
 
 - <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg"></code>
