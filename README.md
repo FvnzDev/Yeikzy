@@ -18,10 +18,9 @@
 
 ## 💻 - Language and Tools
 
-- <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>  <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>  <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg"></code>
-- **Python**
-- **Arduino**
-- **Visual Studio Code - Insiders**
+- <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code> <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code> <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg"></code>
+
+- <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code> <code><img height="30" src="https://github.com/Yeikzy/Yeikzy/blob/main/workflows/Blender.svg"></code>
 
 ## 🚀 - Technologies
 
