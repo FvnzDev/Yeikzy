@@ -18,7 +18,7 @@
 
 ## 💻 - Language and Tools
 
-- <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
+- <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
 - **Python**
 - **Arduino**
 - **Visual Studio Code - Insiders**
