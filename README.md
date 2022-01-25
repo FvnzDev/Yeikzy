@@ -27,7 +27,7 @@
 - <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
 <code><img height="30" src="https://github.com/Yeikzy/Yeikzy/blob/main/workflows/Blender_logo_no_text.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg"></code>
 
 ## 🚀 - Technologies
