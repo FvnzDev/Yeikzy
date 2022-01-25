@@ -18,7 +18,7 @@
 
 ## 💻 - Language and Tools
 
-- **JavaScript / NodeJS** | discord.js
+- <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
 - **Python**
 - **Arduino**
 - **Visual Studio Code - Insiders**
