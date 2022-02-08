@@ -1,4 +1,4 @@
-# 👋 Hi, allow me to introduce myself
+# 👋 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi%2C+allow+me+to+introduce+myself)](https://git.io/typing-svg)
 <div align="center">
 
 ```     
