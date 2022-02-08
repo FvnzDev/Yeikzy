@@ -32,8 +32,8 @@
 
 ## 🚀 - Technologies
 
-- <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain.svg"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg"></code>
+- <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg"></code>
+ <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain.svg"></code>
 
 ## 🛰️ - Find me
 
