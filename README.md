@@ -68,7 +68,7 @@
 
 <p align="center"> 
     <a href="https://github.com/Yeikzy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yeikzy&theme=gitdimmed&no-frame=true&row=1&&margin-w=20&no-bg=true" alt="yeikzy" /> </p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Yeikzy&theme=flat&no-frame=true&row=1&&margin-w=20&no-bg=true" alt="yeikzy" /> </p>
 <br>
 
 <div align="center"> 
