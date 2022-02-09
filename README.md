@@ -66,5 +66,3 @@
 [![github-views](https://komarev.com/ghpvc/?username=yeikzy&color=blue)](https://github.com/Yeikzy) [![discord](https://discordapp.com/api/guilds/903412602921705544/widget.png)](https://discord.gg/kmpnWBzDCa)
 
 </div>
-
-© [Yeikzy](https://github.com/Yeikzy)
