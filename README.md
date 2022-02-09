@@ -1,39 +1,25 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi%2C+allow+me+to+introduce+myself)](https://git.io/typing-svg)
-<div align="center">
+# Hi there, I'm Yeikzy 👋
 
-```     
- __    __          __                          
-/\ \  /\ \      __/\ \                         
-\ `\`\\/'/  __ /\_\ \ \/'\   ____    __  __    
- `\ `\ /' /'__`\/\ \ \ , <  /\_ ,`\ /\ \/\ \   
-   `\ \ \/\  __/\ \ \ \ \\`\\/_/  /_\ \ \_\ \  
-     \ \_\ \____\\ \_\ \_\ \_\/\____\\/`____ \ 
-      \/_/\/____/ \/_/\/_/\/_/\/____/ `/___/> \
-                                         /\___/
-                                         \/__/
-```                                             
-</div>
+<p align="center"> 
+    <a href="https://github.com/Yeikzy">
+  <img src="https://github.com/Yeikzy/Yeikzy/blob/main/.github/workflows/yeikzy.js.png" alt="yeikzy" /> </p>
+<br>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/yeikzy)
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Yeikzy?style=social" /> <a href="https://twitter.com/Yeikzy"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Yeikzy?style=social"></a>
 
 ## 💻 - Language and Tools
 
-- <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg"></code>
-
-- <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
-<code><img height="30" src="https://github.com/Yeikzy/Yeikzy/blob/main/.github/workflows/Blender_logo_no_text.svg"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg"></code>
+- Javascript | **NodeJS**, **discord.js**
+- Python
+- Visual Studio Code
+- IntelliJ IDEA
+- Blender
+- Photoshop
 
 ## 🚀 - Technologies
 
-- <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg"></code>
- <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain.svg"></code>
+- Windows
+- Debian
 
 ## 🛰️ - Find me
 
@@ -70,6 +56,10 @@
     <a href="https://github.com/Yeikzy">
   <img src="https://github-profile-trophy.vercel.app/?username=Yeikzy&theme=flat&no-frame=true&row=1&&margin-w=20&no-bg=true" alt="yeikzy" /> </p>
 <br>
+
+<p align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=yeikzy&theme=react-dark" alt="drawing" width="800"/>
+</p>
 
 <div align="center"> 
 
