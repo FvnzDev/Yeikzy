@@ -78,6 +78,3 @@
 </div>
 
 © [Yeikzy](https://github.com/Yeikzy)
-
-  <img src="https://github.com/Yeikzy/Yeikzy/blob/main/.github/workflows/anime-girl-png-tumblr-9.png" alt="yeikzy" /> </p>
-<br>
