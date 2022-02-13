@@ -5,10 +5,10 @@
   <img src="https://github.com/Yeikzy/Yeikzy/blob/main/.github/workflows/yeikzy.js.png" alt="yeikzy" /> </p>
 <br>
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/582211583938134028?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/582211583938134028)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/582211583938134028)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/582211583938134028)](https://dev.discordprofiles.me/openspotify/582211583938134028)
+![status](https://dev.discordprofiles.me/badge/status/582211583938134028?simple=true)
+![playing](https://dev.discordprofiles.me/badge/playing/582211583938134028)
+![vscode](https://dev.discordprofiles.me/badge/vscode/582211583938134028)
+[![spotify](https://dev.discordprofiles.me/badge/spotify/582211583938134028)](https://dev.discordprofiles.me/openspotify/582211583938134028)
 
 ## 💻 - Language and Tools
 
