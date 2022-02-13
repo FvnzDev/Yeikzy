@@ -1,14 +1,14 @@
 # Hi there, I'm Yeikzy 👋
 
-<p align="center"> 
-    <a href="https://github.com/Yeikzy">
-  <img src="https://github.com/Yeikzy/Yeikzy/blob/main/.github/workflows/yeikzy.js.png" alt="yeikzy" /> </p>
-<br>
-
 ![status](https://dev.discordprofiles.me/badge/status/582211583938134028?simple=true)
 ![playing](https://dev.discordprofiles.me/badge/playing/582211583938134028)
 ![vscode](https://dev.discordprofiles.me/badge/vscode/582211583938134028)
 [![spotify](https://dev.discordprofiles.me/badge/spotify/582211583938134028)](https://dev.discordprofiles.me/openspotify/582211583938134028)
+
+<p align="center"> 
+    <a href="https://github.com/Yeikzy">
+  <img src="https://github.com/Yeikzy/Yeikzy/blob/main/.github/workflows/yeikzy.js.png" alt="yeikzy" /> </p>
+<br>
 
 ## 💻 - Language and Tools
 
