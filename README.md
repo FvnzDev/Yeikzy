@@ -5,10 +5,14 @@
   <img src="https://github.com/Yeikzy/Yeikzy/blob/main/.github/workflows/yeikzy.js.png" alt="yeikzy" /> </p>
 <br>
 
-![status](https://dev.discordprofiles.me/badge/status/582211583938134028?simple=true)
-![playing](https://dev.discordprofiles.me/badge/playing/582211583938134028)
-![vscode](https://dev.discordprofiles.me/badge/vscode/582211583938134028)
-[![spotify](https://dev.discordprofiles.me/badge/spotify/582211583938134028)](https://dev.discordprofiles.me/openspotify/582211583938134028)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Follow+me+!)](https://git.io/typing-svg)
+
+<p align="center"> 
+    <a href="https://github.com/Yeikzy">
+  <img src="https://github.com/Yeikzy/Yeikzy/blob/main/.github/workflows/yeikzy.js.png" alt="yeikzy" /> </p>
+<br>
+
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Yeikzy?style=social" /> <a href="https://twitter.com/Yeikzy"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Yeikzy?style=social"></a>
 
 ## 💻 - Language and Tools
 
