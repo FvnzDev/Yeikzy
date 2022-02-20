@@ -7,11 +7,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Follow+me+!)](https://git.io/typing-svg)
 
-<p align="center"> 
-    <a href="https://github.com/Yeikzy">
-  <img src="https://github.com/Yeikzy/Yeikzy/blob/main/.github/workflows/yeikzy.js.png" alt="yeikzy" /> </p>
-<br>
-
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Yeikzy?style=social" /> <a href="https://twitter.com/Yeikzy"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Yeikzy?style=social"></a>
 
 ## 💻 - Language and Tools
