@@ -28,6 +28,16 @@
 
 <div align="center"> 
 
-[![github-views](https://komarev.com/ghpvc/?username=yeikzy&color=blue)](https://github.com/Yeikzy) [![discord](https://discordapp.com/api/guilds/903412602921705544/widget.png)](https://discord.gg/ErwAkKhMsR)
+[![website](.github/workflows/img/globe-light.svg)](https://yeikzy.github.io#gh-light-mode-only)
+[![website](.github/workflows/img/globe-dark.svg)](https://yeikzy.github.io#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](.github/workflows/img/youtube-light.svg)](https://youtube.com/Yeikzy#gh-light-mode-only)
+[![website](.github/workflows/img/youtube-dark.svg)](https://youtube.com/Yeikzy#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](.github/workflows/img/twitter-light.svg)](https://twitter.com/Yeikzy#gh-light-mode-only)
+[![website](.github/workflows/img/twitter-dark.svg)](https://twitter.com/Yeikzy#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](.github/workflows/img//instagram-light.svg)](https://instagram.com/Yeikzy#gh-light-mode-only)
+[![website](.github/workflows/img/instagram-dark.svg)](https://instagram.com/Yeikzy#gh-dark-mode-only)
 
 </div>
