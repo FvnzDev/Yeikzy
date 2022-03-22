@@ -15,7 +15,7 @@
 	<img width="50%" align="center" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Yeikzy&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
 </a>
 
-ㅤ
+<div align=center>ㅤ
 
 [![website](.github/workflows/img/globe-light.svg)](https://yeikzy.github.io#gh-light-mode-only)
 [![website](.github/workflows/img/globe-dark.svg)](https://yeikzy.github.io#gh-dark-mode-only)
