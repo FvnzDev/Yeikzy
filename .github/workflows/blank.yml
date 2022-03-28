@@ -26,6 +26,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Paris
+          plugin_gists: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
@@ -42,6 +43,3 @@ jobs:
           plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_types: followers
-          plugin_tweets: yes
-          plugin_tweets_limit: 2
-          plugin_tweets_user: Yeikzy
