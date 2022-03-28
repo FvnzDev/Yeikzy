@@ -1,32 +1,24 @@
-<p align="center">
-  <br>
-  <br>
-  <br>
-  <samp>Hello there. I'm <a href="https://twitter.com/yeikzy">Yeikzy</a>.<br> I'm a Backend Developer from France, living in France.<br><br>#javascript, #python, #node</samp>
-  <br>
-  <br>
-  <tr>
+# Welcome to my Github Profile! 👋
 
-<a href="https://discord.com/users/582211583938134028" target="_blank">
-	<img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/582211583938134028?bg=1f1f1f&borderRadius=5px">
-</a>
+ My online-alias is **Yeikzy**, my Real Name is **Benjamin**. I am a Intermediate **JavaScript Developer**. Coding is my passion.
 
-<a href="https://wakatime.com/@Yeikzy" target="_blank">
-	<img width="50%" align="center" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Yeikzy&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
-</a>
+[Discord Server](https://discord.gg/ErwAkKhMsR) | [Website](https://yeikzy.github.io) | [Email](yeikzypro@gmail.com) | [My Gists](https://gist.github.com/Yeikzy)
 
-<div align=center>ㅤ
+![Alt](https://discord.c99.nl/widget/theme-4/582211583938134028.png)
 
-[![website](.github/workflows/img/globe-light.svg)](https://yeikzy.github.io#gh-light-mode-only)
-[![website](.github/workflows/img/globe-dark.svg)](https://yeikzy.github.io#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](.github/workflows/img/youtube-light.svg)](https://youtube.com/Yeikzy#gh-light-mode-only)
-[![website](.github/workflows/img/youtube-dark.svg)](https://youtube.com/Yeikzy#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](.github/workflows/img/twitter-light.svg)](https://twitter.com/Yeikzy#gh-light-mode-only)
-[![website](.github/workflows/img/twitter-dark.svg)](https://twitter.com/Yeikzy#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](.github/workflows/img//instagram-light.svg)](https://instagram.com/Yeikzy#gh-light-mode-only)
-[![website](.github/workflows/img/instagram-dark.svg)](https://instagram.com/Yeikzy#gh-dark-mode-only)
+[![Repos Badge](https://badges.pufler.dev/repos/Yeikzy)](https://badges.pufler.dev) ![Commits Badge](https://badges.pufler.dev/commits/monthly/Yeikzy)
 
-</div>
+![Metrics](https://metrics.lecoq.io/Yeikzy?template=classic&languages=1&isocalendar=1&people=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FParis)
+
+## About my Work
+
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yeikzy&repo=ArduinoRPC&theme=dark)](https://github.com/Yeikzy/ArduinoRPC)
+
+## Contact Me
+
+- **for Business inquiries:**
+  - E-Mail: yeikzypro@gmail.com
+
+- **For Other requests:**
+	 - Discord: Yeikzy#0001
+	 - Discord Server: https://discord.gg/ErwAkKhMsR
