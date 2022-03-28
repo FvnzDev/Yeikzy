@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # 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
+          # Your Github Token
           # The following scopes are required:
           #  - public_access (default scope)
           # The following additional scopes may be required:
