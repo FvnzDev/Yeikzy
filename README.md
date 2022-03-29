@@ -6,7 +6,7 @@
 
 ![Alt](https://discord.c99.nl/widget/theme-4/582211583938134028.png)
 
-[![Repos Badge](https://badges.pufler.dev/repos/Yeikzy)](https://badges.pufler.dev) ![Commits Badge](https://badges.pufler.dev/commits/monthly/Yeikzy)
+[![Repos Badge](https://badges.pufler.dev/repos/Yeikzy)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/Yeikzy)](https://badges.pufler.dev)
 
 ![Metrics](https://github.com/Yeikzy/Yeikzy/blob/main/github-metrics.svg)
 
