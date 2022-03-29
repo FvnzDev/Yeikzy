@@ -8,7 +8,7 @@
 
 [![Repos Badge](https://badges.pufler.dev/repos/Yeikzy)](https://badges.pufler.dev) ![Commits Badge](https://badges.pufler.dev/commits/monthly/Yeikzy)
 
-![Metrics](/github-metrics.svg)
+![Metrics](https://github.com/Yeikzy/Yeikzy/blob/main/github-metrics.svg)
 
 ## About my Work
 
