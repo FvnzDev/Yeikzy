@@ -12,7 +12,7 @@
 
 ## About my Work
 
- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yeikzy&repo=ArduinoRPC&theme=dark)](https://github.com/Yeikzy/ArduinoRPC)
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yeikzy&repo=discord-arduino&theme=dark)](https://github.com/Yeikzy/discord-arduino)
 
 ## Contact Me
 
